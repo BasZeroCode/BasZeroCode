@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abbas</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BasZeroCode" alt="BasZeroCode" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app" alt="GitHub Profile Trophy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
