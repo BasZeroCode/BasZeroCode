@@ -10,7 +10,7 @@
 - ⚡ Fun fact **Why so serious?**
 
 <p align="right">
-  <img width="400" alt="Coding" src="https://imgur.com/1CssljC">
+  <img width="400" alt="Coding" src="<blockquote class="imgur-embed-pub" lang="en" data-id="1CssljC"  ><a href="//imgur.com/1CssljC">&quot;Oh, here&#39;s your problem... it&#39;s trying to access a non-static member variable from a static method.&quot;</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
 </p>
 
 
