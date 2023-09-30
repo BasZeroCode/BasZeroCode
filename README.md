@@ -9,12 +9,9 @@
 
 - ⚡ Fun fact **Why so serious?**
 
-<p align="right">
 <p align="center">
-  <img width="45%" alt="Matrix Code Animation" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Digital_rain_animation_medium_letters_clear.gif">
   <img width="45%" alt="Coding" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
