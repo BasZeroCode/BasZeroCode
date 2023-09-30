@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Abbas</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- I'm currently working on **E-commerce website**
+<div align="center">
+  <div style="width: 45%; display: inline-block;">
+    <p align="center">
+      <img width="100%" alt="Coding" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
+    </p>
+  </div>
 
-- 🌱 I’m currently learning **Google Cybersecurity**
-
-- 💬 Ask me about **Python, Linux, HTML, CSS**
-
-- ⚡ Fun fact **Why so serious?**
-
-<p align="right">
-  <img width="45%" alt="Coding" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
-</p>
+  <div style="width: 45%; display: inline-block;">
+    <ul>
+      <li>I'm currently working on <strong>E-commerce website</strong></li>
+      <li>🌱 I’m currently learning <strong>Google Cybersecurity</strong></li>
+      <li>💬 Ask me about <strong>Python, Linux, HTML, CSS</strong></li>
+      <li>⚡ Fun fact <strong>Why so serious?</strong></li>
+    </ul>
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
