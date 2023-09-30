@@ -9,8 +9,11 @@
 
 - ⚡ Fun fact **Why so serious?**
 
-<p align="right">
-  <img width="400" alt="Coding" src="<blockquote class="imgur-embed-pub" lang="en" data-id="1CssljC"  ><a href="//imgur.com/1CssljC">&quot;Oh, here&#39;s your problem... it&#39;s trying to access a non-static member variable from a static method.&quot;</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
+<p align="center">
+  <div style="width:100%;height:0;padding-bottom:105%;position:relative;">
+    <iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  </div>
+  <p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>
 </p>
 
 
