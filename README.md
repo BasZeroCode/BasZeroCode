@@ -16,7 +16,7 @@
 
  💬 Ask me about **Python, JavaScript, HTML... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **Flip for mayhem or madness. Spoiler alert: Either way, Gotham loses.**
  
  </div>
  
