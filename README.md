@@ -3,7 +3,7 @@
 <p align="right">
 <p align="center">
   <img width="45%" alt="Matrix Code Animation" src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif">
-  <img width="45%" alt="Coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+  <img width="45%" alt="Coding" src="https://cdn.wallpapersafari.com/84/22/Jz6bAs.gif">
 </p>
 
 
