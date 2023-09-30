@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abbas</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baszerocode&label=Profile%20views&color=0e75b6&style=flat" alt="baszerocode" /> </p>
+
+<p align="right">
+  <img width="400" alt="Coding" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+</p>
+
 - I'm currently working on **E-commerce website**
 
 - 🌱 I’m currently learning **Google Cybersecurity**
@@ -8,11 +14,6 @@
 - 💬 Ask me about **Python, Linux, HTML, CSS**
 
 - ⚡ Fun fact **Why so serious?**
-
-<p align="right">
-  <img width="400" alt="Coding" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
-</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
