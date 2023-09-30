@@ -9,11 +9,9 @@
 
 - ⚡ Fun fact **Why so serious?**
 
-<div style="width: 45%;">
-    <p align="center">
-      <img width="100%" alt="Coding" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
-    </p>
-  </div>
+<p align="right">
+  <img width="45%" alt="Coding" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
