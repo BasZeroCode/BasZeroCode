@@ -10,7 +10,7 @@
 - ⚡ Fun fact **Why so serious?**
 
 <p align="right">
-  <img width="400" alt="Coding" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
+  <img width="400" alt="Coding" src="https://imgur.com/1CssljC">
 </p>
 
 
