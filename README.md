@@ -10,7 +10,7 @@
 - ⚡ Fun fact **Why so serious?**
 
 <p align="center">
-  <img width="75%" alt="Coding" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
+  <img width="45%" alt="Coding" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 </p>
 
 <h3 align="left">Connect with me:</h3>
