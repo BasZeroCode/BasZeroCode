@@ -10,7 +10,7 @@
 - ⚡ Fun fact **Why so serious?**
 
 <p align="right">
-  <img width="400" alt="Coding" src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">
+  <img width="400" alt="Coding" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 </p>
 
 
