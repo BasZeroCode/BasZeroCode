@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer</h3>
 <p align="right">
 <p align="center">
-  <img width="45%" alt="Matrix Code Animation" src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif">
-  <img width="45%" alt="Coding" src="https://cdn.wallpapersafari.com/84/22/Jz6bAs.gif">
+  <img width="45%" alt="Matrix Code Animation" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Digital_rain_animation_medium_letters_clear.gif">
+  <img width="45%" alt="Coding" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 </p>
 
 
