@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abbas</h1>
 <h3 align="center">A passionate frontend developer</h3>
+
+- I'm currently working on **E-commerce website**
+
+- 🌱 I’m currently learning **Google Cybersecurity**
+
+- 💬 Ask me about **Python, Linux, HTML, CSS**
+
+- ⚡ Fun fact **Why so serious?**
+
 <p align="right">
 <p align="center">
   <img width="45%" alt="Matrix Code Animation" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Digital_rain_animation_medium_letters_clear.gif">
