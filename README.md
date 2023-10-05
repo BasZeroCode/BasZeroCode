@@ -42,6 +42,10 @@
     <img height="200px" src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png">
    </a>
 
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DWKHZVN8XDAR">
+    <img height="200px" src="https://images.credly.com/size/680x680/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png">
+   </a>
+
 <br/>
 <hr/>
 
