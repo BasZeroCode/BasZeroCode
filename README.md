@@ -1,7 +1,5 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, World!👋
 
-## Welcome to my page! 
-
 I'm **BasZeroCode**, a Frontend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197496.png" width="13"/> **Singapore**. 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
