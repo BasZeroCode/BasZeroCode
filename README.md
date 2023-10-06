@@ -7,7 +7,7 @@ I'm **BasZeroCode**, a Frontend developer from <img src="https://cdn-icons-png.f
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,javascript,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=github,python,javascript,c,c++" /><br>
     <img src="https://skillicons.dev/icons?i=react,mysql,html,css,vscode,git" />
 </div>
 
