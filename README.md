@@ -1,20 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ## Hello, World!👋</h1>
 
-<a href='https://www.linkedin.com/in/muhd-abbas/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='mailto:muabbasa8@gmail.com'><img align='left' alt="gmail" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/gmail.svg" height='18px'/></a>
-
 <p>Welcome to my page! </br> I'm BasZeroCode, Frontend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197496.png" width="13"/> <b>Singapore, </b> </p>
- 
-<div align="center"> 
-  <a href="mailto:muabbasa8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/muhd-abbas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
 
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
