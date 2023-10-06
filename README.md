@@ -7,14 +7,8 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a e-commerce website**
- 
- 🌱 I’m currently learning **Kotlin and React**
 
- 💬 Ask me about **Python, JavaScript, HTML... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
- ⚡ Fun fact **Flip for mayhem or madness. Spoiler alert: Either way, Gotham loses.**
+**Flip for mayhem or madness. Spoiler alert: Either way, Gotham loses.**
  
  </div>
  
