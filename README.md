@@ -1,7 +1,5 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abbas!;" />
-</h1>
- 
+<p align="center"><a href="https://github.com/BasZeroCode"><img width="80%" alt="Hello, I'm BasZeroCode I am a junior software developer!" src="./assets/gh-readme-header.png" /></a></p>
+
  </div>
  
 <div align="center"> 
