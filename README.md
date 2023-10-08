@@ -17,6 +17,10 @@ I'm **BasZeroCode**, a Frontend developer from <img src="https://cdn-icons-png.f
     <a href="https://www.credly.com/earner/earned/badge/78fdbb3c-18a3-485b-aeed-b81c5db12fdc">
     <img height="200px" src="https://images.credly.com/size/680x680/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png">
    </a>
+   <a href="https://www.credly.com/earner/earned/badge/65c9b31e-2336-4628-91d1-b552f8f5f9b8">
+    <img height="200px" src="https://images.credly.com/size/680x680/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png">
+   </a>
+
 
 
 <br/>
