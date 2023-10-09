@@ -20,6 +20,9 @@ I'm **BasZeroCode**, Junior Software Developer from <img src="https://cdn-icons-
    <a href="https://www.credly.com/earner/earned/badge/65c9b31e-2336-4628-91d1-b552f8f5f9b8">
     <img height="200px" src="https://images.credly.com/size/680x680/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png">
    </a>
+    <a href="https://www.credly.com/earner/earned/badge/c4dd42bd-2626-4448-a05c-47ee4105ade4">
+    <img height="200px" src="https://images.credly.com/size/680x680/images/23859131-d0ff-4f44-900f-bac86165b941/image.png">
+   </a>
 
 
 
