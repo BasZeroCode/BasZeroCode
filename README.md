@@ -10,7 +10,7 @@ I'm **BasZeroCode**, Junior Software Developer from <img src="https://cdn-icons-
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,python,c,aws,azure" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,linux,powershell,vscode,git,pr,ps" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql,linux,powershell,vscode,git,pr,ps" />
 </div>
 
 <h2><i>🏅 Awards &  Badges</i></h2>
