@@ -1,7 +1,5 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, World!👋
 
-I'm **BasZeroCode**, Junior Software Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197496.png" width="13"/> **Singapore**. 
-
 <div align="center">
     <img src="https://37.media.tumblr.com/c69c6c452293f56085b8ce7806b142a8/tumblr_mvllrg6fYl1rheqhwo1_500.gif" alt="GIF">
 </div>
