@@ -24,9 +24,6 @@
  </a>
    <a href="https://www.credly.com/earner/earned/badge/cf7d2c8c-fe3d-4f43-8b02-8ccb6e7984e7">
     <img height="200px" src="https://images.credly.com/size/680x680/images/3545154f-08b4-4f6f-9592-c356d7108965/Developing_Cloud_Native_Applications.png">
- </a>
-   <a href="https://www.credly.com/earner/earned/badge/cf7d2c8c-fe3d-4f43-8b02-8ccb6e7984e7">
-    <img height="200px" src="https://images.credly.com/size/680x680/images/9dcdc294-79a6-47e5-a769-708c29c7c497/image.png">
 <br/>
 <hr/>
 
