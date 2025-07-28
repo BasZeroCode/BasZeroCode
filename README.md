@@ -4,11 +4,11 @@
     <img src="https://37.media.tumblr.com/c69c6c452293f56085b8ce7806b142a8/tumblr_mvllrg6fYl1rheqhwo1_500.gif" alt="GIF">
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,aws,gcp,azure,powershell,ps,pr" /><br>
-    <img src="https://skillicons.dev/icons?i=py,c,css,html,mysql,powerbi,linux,windows,apple" />
+    <img src="https://skillicons.dev/icons?i=github,aws,gcp,azure,powershell,py,c" /><br><br>
+    <img src="https://skillicons.dev/icons?i=css,html,mysql,powerbi,linux,windows,apple" />
 </div>
 
 <h2><i>🏅 Awards &  Badges</i></h2>
