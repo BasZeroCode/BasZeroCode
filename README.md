@@ -7,8 +7,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,figma,mysql,powershell,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=github" /><br>
+    <img src="https://skillicons.dev/icons?i=pythhon,mysql,powershell,powerbi" />
 </div>
 
 <h2><i>🏅 Awards &  Badges</i></h2>
@@ -16,14 +16,6 @@
    <a href="https://www.credly.com/earner/earned/badge/d093ace3-a6fd-4e9d-a232-e343de0f48ac">
     <img height="200px" src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png">
    </a>
-    <a href="https://www.credly.com/earner/earned/badge/78fdbb3c-18a3-485b-aeed-b81c5db12fdc">
-    <img height="200px" src="https://images.credly.com/size/680x680/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png">
-   </a>
-   <a href="https://www.credly.com/earner/earned/badge/65c9b31e-2336-4628-91d1-b552f8f5f9b8">
-    <img height="200px" src="https://images.credly.com/size/680x680/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png">
- </a>
-   <a href="https://www.credly.com/earner/earned/badge/cf7d2c8c-fe3d-4f43-8b02-8ccb6e7984e7">
-    <img height="200px" src="https://images.credly.com/size/680x680/images/3545154f-08b4-4f6f-9592-c356d7108965/Developing_Cloud_Native_Applications.png">
 <br/>
 <hr/>
 
