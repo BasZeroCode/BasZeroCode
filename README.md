@@ -7,8 +7,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github" /><br>
-    <img src="https://skillicons.dev/icons?i=python,mysql,powershell,powerbi" />
+    <img src="https://skillicons.dev/icons?i=github,aws,gcp,azure,powershell,ps,pr" /><br>
+    <img src="https://skillicons.dev/icons?i=py,c,css,html,mysql,powerbi" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,apple" />
 </div>
 
 <h2><i>🏅 Awards &  Badges</i></h2>
