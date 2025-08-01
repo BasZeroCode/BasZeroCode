@@ -8,7 +8,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,aws,gcp,azure,powershell,py,c" /><br><br>
-    <img src="https://skillicons.dev/icons?i=css,html,mysql,powerbi,linux,windows,apple" />
+    <img src="https://skillicons.dev/icons?i=css,html,mysql,kubernetes,docker,powerbi,linux,windows,apple" />
 </div>
 
 <h2><i>🏅 Awards &  Badges</i></h2>
