@@ -16,8 +16,7 @@
 <!-- ⚙️ Scripting -->
 <h3>⚙️ Scripting</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=powershell" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
+    <img src="https://skillicons.dev/icons?i=powershell,shell" />
 </div>
 <br/>
 
