@@ -34,10 +34,10 @@
 </div>
 <br/>
 
-<!-- 📊 Data & BI -->
-<h3>📊 Data & BI</h3>
+<!-- 📊 Social Media -->
+<h3>📊 Social</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=powerbi,mysql" />
+    <img src="https://skillicons.dev/icons?i=discord,twitter" />
 </div>
 <br/>
 
