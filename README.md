@@ -16,7 +16,7 @@
 <!-- ⚙️ Scripting -->
 <h3>⚙️ Scripting</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=powershell,shell" />
+    <img src="https://skillicons.dev/icons?i=powershell,bash" />
 </div>
 <br/>
 
