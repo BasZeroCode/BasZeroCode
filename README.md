@@ -13,7 +13,7 @@
 
 <h2><i>🏅 Awards &  Badges</i></h2>
 <div align="center">
-   <a href="https://www.credly.com/earner/earned/badge/d093ace3-a6fd-4e9d-a232-e343de0f48ac">
+   <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
     <img height="200px" src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png">
    </a>
 <br/>
