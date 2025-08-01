@@ -15,6 +15,7 @@
 <div align="center">
    <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
     <img height="200px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+       <img height="200px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
    </a>
 <br/>
 <hr/>
