@@ -4,12 +4,42 @@
     <img src="https://37.media.tumblr.com/c69c6c452293f56085b8ce7806b142a8/tumblr_mvllrg6fYl1rheqhwo1_500.gif" alt="GIF">
 </div>
 
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=github,aws,gcp,azure,powershell,py,c" /><br><br>
-    <img src="https://skillicons.dev/icons?i=css,html,mysql,kubernetes,docker,powerbi,linux,windows,apple" />
+<h2 align="center">🛠 Tech Stack & Expertise</h2>
+
+<!-- 💻 Software Development Languages -->
+<h3>💻 Software Development Languages</h3>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=py,c,html,css" />
 </div>
+<br/>
+
+<!-- 🛡️ Cybersecurity -->
+<h3>🛡️ Cybersecurity</h3>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=linux,powershell" />
+</div>
+<br/>
+
+<!-- 🖥️ IT Tools & Platforms -->
+<h3>🖥️ IT Tools & Platforms</h3>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=github,aws,gcp,azure,windows,apple" />
+</div>
+<br/>
+
+<!-- 📊 Data & Business Intelligence -->
+<h3>📊 Data & Business Intelligence</h3>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=mysql,powerbi" />
+</div>
+<br/>
+
+<!-- 📦 DevOps & Containerization -->
+<h3>📦 DevOps & Containerization</h3>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</div>
+<br/>
 
 <h2><i>🏅 Awards &  Badges</i></h2>
 <div align="center">
